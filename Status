@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.0.1",
     "SoftwareUrl":"https://github.com/isyatodev/SerpentX/releases/download/1.0.1/Serpent.X.1.0.1.rar",
-    "Status": "True",
+    "Status": "False",
     "Changelog":"[+] Updated, [+] Crash on injection fixed"
 }
